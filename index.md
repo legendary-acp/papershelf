@@ -9,43 +9,48 @@ Welcome to my collection of fascinating research papers and articles! Here, you'
 
 ---
 
-## 🧠 **Latest Reads**
+## 🧠 **Recent Reads & Articles**
 
-- [**Paper Title 1**](./papers/paper1.pdf)  
-  _Summary of the paper goes here._  
-  **Keywords**: AI, Machine Learning, Innovation
+### 📄 **A Comprehensive Survey on Vector Database: Storage and Retrieval Technique, Challenge**
+   - [Read Paper](./material/papers/Data-Engineering/A-Comprehensive-Survey-on-Vector-Database_Storage-and-Retrieval-Technique-Challenge.pdf)
+   - [Read Article](./_posts/2024-07-04-comprehensive-survey-on-vector-database.md)
 
-- [**Article Title 2**](./papers/article2.pdf)  
-  _Summary of the article goes here._  
-  **Keywords**: Web Development, React, Performance
+   _This paper dives into the challenges and techniques involved in vector database storage and retrieval. It offers a detailed survey of current approaches and outlines both the limitations and innovations in this emerging field._
 
-- [**Paper Title 3**](./papers/paper3.pdf)  
-  _Summary of the paper goes here._  
-  **Keywords**: Kubernetes, Scalability, Containers
+### 📝 **Advantages and Disadvantages of a Monolithic Repository**
+   - [Read Paper](./material/misc/Advantage-and-Disadvantages-of-a-Monolithic-Repository.pdf)
+   - [Read Article](./_posts/2024-09-08-advantages-disadvantages-monolithic-repo.md)
+
+   _An insightful discussion on the pros and cons of using a monolithic repository architecture. It weighs benefits like simpler dependency management against challenges such as scaling and collaboration._
 
 ---
 
 ## 📑 **All Collections**
 Explore categorized collections of papers and articles:
 
-### 🔬 Artificial Intelligence
-- [Paper Title 1](./papers/paper1.pdf)
-- [Paper Title 2](./papers/paper2.pdf)
+### 🔬 **Artificial Intelligence / Machine Learning**
+- [Are Language Models Actually Useful for Time Series Forecasting?](./material/papers/Are-Language-Models-Actually-Useful-for-Time-Series-Forecasting.pdf)
+- [Bloom](./material/papers/Bloom.pdf)
 
-### 🌐 Web Development
-- [Article Title 1](./papers/article1.pdf)
-- [Paper Title 3](./papers/paper3.pdf)
+### 🛠 **Data Engineering**
+- [A Comprehensive Survey on Vector Database: Storage and Retrieval Technique, Challenge](./material/papers/A-Comprehensive-Survey-on-Vector-Database_Storage-and-Retrieval-Technique-Challenge.pdf)
+- [Lakehouse](./material/papers/Lakehouse.pdf)
+- [MapReduce](./material/papers/MapReduce.pdf)
+- [Presto](./material/papers/Presto.pdf)
 
-### 🛠 DevOps & Cloud
-- [Paper Title 4](./papers/paper4.pdf)
-- [Article Title 5](./papers/article5.pdf)
+### 🌐 **Blockchain / Cryptography**
+- [Bitcoin](./material/papers/Bitcoin.pdf)
+
+### ☁️ **Distributed Systems / Availability**
+- [Meaningful Availability](./material/papers/Meaningful-Availability.pdf)
+
+### 📦 **Miscellaneous**
+- [Advantages and Disadvantages of a Monolithic Repository](./material/misc/Advantage-and-Disadvantages-of-a-Monolithic-Repository.pdf)
 
 ---
 
 ## 📥 **Download PDFs**
 All the papers and articles I've read are hosted here, and you can directly download them:
 
-- [All Papers](./papers)
-- [All Articles](./articles)
-
-Feel free to explore! 🚀
+- [All Papers](./material/papers)
+- [All Miscellaneous Materials](./material/misc)
