@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Home
+author: Pradyuman
 ---
 
 # 📚 Research Papers & Articles
