@@ -18,7 +18,7 @@ Welcome to my collection of fascinating research papers and articles! Here, you'
    _This paper dives into the challenges and techniques involved in vector database storage and retrieval. It offers a detailed survey of current approaches and outlines both the limitations and innovations in this emerging field._
 
 ### 📝 **Advantages and Disadvantages of a Monolithic Repository**
-   - [Read Paper](./material/misc/Advantage-and-Disadvantages-of-a-Monolithic-Repository.pdf)
+   - [Read Paper](./material/Misc/Advantage-and-Disadvantages-of-a-Monolithic-Repository.pdf)
    - [Read Article](./_posts/2024-09-08-advantages-disadvantages-monolithic-repo.md)
 
    _An insightful discussion on the pros and cons of using a monolithic repository architecture. It weighs benefits like simpler dependency management against challenges such as scaling and collaboration._
