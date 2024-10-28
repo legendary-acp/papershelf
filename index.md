@@ -29,8 +29,8 @@ Welcome to my collection of fascinating research papers and articles! Here, you'
 Explore categorized collections of papers and articles:
 
 ### 🔬 **Artificial Intelligence / Machine Learning**
-- [Are Language Models Actually Useful for Time Series Forecasting?](./material/papers/Are-Language-Models-Actually-Useful-for-Time-Series-Forecasting.pdf)
-- [Bloom](./material/papers/Bloom.pdf)
+- [Are Language Models Actually Useful for Time Series Forecasting?](./material/papers/AI/Are-Language-Models-Actually-Useful-for-Time-Series-Forecasting.pdf)
+- [Bloom](./material/papers/AI/Bloom.pdf)
 
 ### 🛠 **Data Engineering**
 - [A Comprehensive Survey on Vector Database: Storage and Retrieval Technique, Challenge](./material/papers/Data-Engineering/A-Comprehensive-Survey-on-Vector-Database_Storage-and-Retrieval-Technique-Challenge.pdf)
