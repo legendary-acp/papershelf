@@ -7,7 +7,7 @@ tags: [productivity, misc]
 
 When I first encountered the concept of a **MonoRepo**, it didn't quite make sense. 🤔 Why would anyone put all their code into a single repository? In my experience, each microservice had its own dedicated repository, built separately to reduce complexity. Combining everything into one place seemed like it would only increase developer effort and make things more confusing — until I came across this fascinating case study by Google. 
 
-![Monorepo vs Multirepo](../assets/img/monorepo.webp)
+![Monorepo vs Multirepo](/papershelf/assets/img/monorepo.webp)
 
 ---
 
@@ -72,4 +72,4 @@ After reading this case study, my perspective on MonoRepos has shifted significa
 I hope this article has provided valuable insights into MonoRepos and contributes to your growth as a better engineer. 🖥️💡
 
 
-[Download PDF](../assets/papers/misc/advantage_and_disadvantages_of_a_monolithic_repository.pdf)
+[Download PDF](/papershelf/assets/papers/misc/advantage_and_disadvantages_of_a_monolithic_repository.pdf)
