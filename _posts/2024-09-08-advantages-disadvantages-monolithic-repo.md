@@ -72,4 +72,4 @@ After reading this case study, my perspective on MonoRepos has shifted significa
 I hope this article has provided valuable insights into MonoRepos and contributes to your growth as a better engineer. 🖥️💡
 
 
-[Download PDF](../assets/papers/Misc/Advantage-and-Disadvantages-of-a-Monolithic-Repository.pdf)
+[Download PDF](../assets/papers/misc/advantage_and_disadvantages_of_a_monolithic_repository.pdf)
