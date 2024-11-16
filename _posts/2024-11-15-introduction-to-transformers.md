@@ -11,7 +11,7 @@ So, here's the deal: this paper introduces the Transformer model, and it totally
 
 ---
 
-![Transformer Architecture](../assets/img/transformer-architecture.png "Transformer Architecture")
+![Transformer Architecture](../assets/img/transformer-architecture.png)
 
 Now let's talk about the Transformer's core setup. It's based on an encoder-decoder architecture. The encoder handles the input sequence, while the decoder generates the output based on the encoder's work and its own past outputs. But the real magic is in the Multi-Head Attention Mechanism - this is what lets the model focus on different parts of the input data at the same time. So, rather than just processing one piece at a time like traditional recurrent models, the Transformer can look at everything all at once, making it lightning-fast.
 And here's the real mic-drop moment: the introduction of **attention** completely changes the game. With the multi-headed self-attention mechanism, the Transformer model doesn't just speed up training - it takes the whole performance bar and smashes it. We're talking state-of-the-art results on tasks like the WMT 2014 English-to-German and English-to-French translation benchmarks. On the English-to-German task, it hit a BLEU score of 28.4, blowing the previous record out of the water. That's not just progress - it's a huge leap forward.

@@ -7,7 +7,7 @@ tags: [productivity, misc]
 
 When I first encountered the concept of a **MonoRepo**, it didn't quite make sense. 🤔 Why would anyone put all their code into a single repository? In my experience, each microservice had its own dedicated repository, built separately to reduce complexity. Combining everything into one place seemed like it would only increase developer effort and make things more confusing — until I came across this fascinating case study by Google. 
 
-![Monorepo vs Multirepo](../assets/img/monorepo.webp "Monorepo vs Multirepo")
+![Monorepo vs Multirepo](../assets/img/monorepo.webp)
 
 ---
 
