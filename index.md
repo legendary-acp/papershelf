@@ -44,6 +44,7 @@ Explore categorized collections of papers and articles:
 - [Hive: A Warehousing Solution Over a Map-Reduce Framework](./assets/papers/data_engineering/hive_a_warehousing_solution_over_a_map_reduce_framework.pdf)
 - [Presto: A Decade of SQL Analytics at Meta](./assets/papers/data_engineering/presto_a_decade_of_sql_analytics_at_meta.pdf)
 - [A Comprehensive Survey on Vector Database: Storage and Retrieval Technique, Challenge](./assets/papers/data_engineering/a_comprehensive_survey_on_vector_database_storage_and_retrieval_technique_challenge.pdf)
+- [Computation Reuse via Fusion in Amazon Athena](./assets/papers/data_engineering/computation_reuse_via_fusion_in_amazon_athena.pdf)
 
 ### 🌐 **Blockchain / Cryptography**
 - [Bitcoin](./assets/papers/web3/bitcoin.pdf)
