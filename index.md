@@ -18,7 +18,7 @@ Welcome to my collection of fascinating research papers and articles! Here, you'
    _The Transformer model, introduced in the paper "Attention is All You Need," revolutionized AI by replacing traditional recurrence with self-attention, allowing faster, parallel processing of data. This innovation has powered breakthroughs in natural language processing, setting new benchmarks in tasks like translation, and transforming how AI systems operate today._
 
 ### 📝 **Advantages and Disadvantages of a Monolithic Repository**
-   - [Read Paper](./assets/papers/Misc/advantage_and_disadvantages_of_a_monolithic_repository.pdf)
+   - [Read Paper](./assets/papers/misc/advantage_and_disadvantages_of_a_monolithic_repository.pdf)
    - [Read Article](./_posts/2024-09-08-advantages-disadvantages-monolithic-repo.md)
 
    _An insightful discussion on the pros and cons of using a monolithic repository architecture. It weighs benefits like simpler dependency management against challenges such as scaling and collaboration._
