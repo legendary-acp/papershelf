@@ -36,23 +36,23 @@ Welcome to my collection of fascinating research papers and articles! Here, you'
 Explore categorized collections of papers and articles:
 
 ### 🔬 **Artificial Intelligence / Machine Learning**
-- [Attention Is All You Need](./assets/papers/ai/attention_is_all_you_need.pdf)
-- [Diffusion Models Are Real-Time Game Engines](./assets/papers/ai/diffusion_models_are_real_time_game_engines.pdf)
+- (✓)[Attention Is All You Need](./assets/papers/ai/attention_is_all_you_need.pdf)
+- (  )[Diffusion Models Are Real-Time Game Engines](./assets/papers/ai/diffusion_models_are_real_time_game_engines.pdf)
 
 ### 🛠 **Data Engineering**
-- [BigLake: BigQuery’s Evolution toward a Multi-Cloud Lakehouse](./assets/papers/data_engineering/biglake_bigquery_s_evolution_toward_a_multi_cloud_lakehouse.pdf)
-- [Hive: A Warehousing Solution Over a Map-Reduce Framework](./assets/papers/data_engineering/hive_a_warehousing_solution_over_a_map_reduce_framework.pdf)
-- [Presto: A Decade of SQL Analytics at Meta](./assets/papers/data_engineering/presto_a_decade_of_sql_analytics_at_meta.pdf)
-- [A Comprehensive Survey on Vector Database: Storage and Retrieval Technique, Challenge](./assets/papers/data_engineering/a_comprehensive_survey_on_vector_database_storage_and_retrieval_technique_challenge.pdf)
-- [Computation Reuse via Fusion in Amazon Athena](./assets/papers/data_engineering/computation_reuse_via_fusion_in_amazon_athena.pdf)
+- (  )[BigLake: BigQuery’s Evolution toward a Multi-Cloud Lakehouse](./assets/papers/data_engineering/biglake_bigquery_s_evolution_toward_a_multi_cloud_lakehouse.pdf)
+- (  )[Hive: A Warehousing Solution Over a Map-Reduce Framework](./assets/papers/data_engineering/hive_a_warehousing_solution_over_a_map_reduce_framework.pdf)
+- (  )[Presto: A Decade of SQL Analytics at Meta](./assets/papers/data_engineering/presto_a_decade_of_sql_analytics_at_meta.pdf)
+- (✓)[A Comprehensive Survey on Vector Database: Storage and Retrieval Technique, Challenge](./assets/papers/data_engineering/a_comprehensive_survey_on_vector_database_storage_and_retrieval_technique_challenge.pdf)
+- (  )[Computation Reuse via Fusion in Amazon Athena](./assets/papers/data_engineering/computation_reuse_via_fusion_in_amazon_athena.pdf)
 
 ### 🌐 **Blockchain / Cryptography**
-- [Bitcoin](./assets/papers/web3/bitcoin.pdf)
-- [Ethereum](./assets/papers/web3/ethereum.pdf)
+- (→)[Bitcoin](./assets/papers/web3/bitcoin.pdf)
+- (  )[Ethereum](./assets/papers/web3/ethereum.pdf)
 
 ### 📦 **Miscellaneous**
-- [Bloom Filters: Design Innovations and Novel Applications](./assets/papers/misc/bloom_filters_design_innovations_and_novel_applications.pdf)
-- [Advantages and Disadvantages of a Monolithic Repository](./assets/papers/misc/advantage_and_disadvantages_of_a_monolithic_repository.pdf)
+- (  )[Bloom Filters: Design Innovations and Novel Applications](./assets/papers/misc/bloom_filters_design_innovations_and_novel_applications.pdf)
+- (✓)[Advantages and Disadvantages of a Monolithic Repository](./assets/papers/misc/advantage_and_disadvantages_of_a_monolithic_repository.pdf)
 
 
 ---
