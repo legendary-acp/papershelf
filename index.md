@@ -38,6 +38,7 @@ Explore categorized collections of papers and articles:
 ### 🔬 **Artificial Intelligence / Machine Learning**
 - (✓)[Attention Is All You Need](./assets/papers/ai/attention_is_all_you_need.pdf)
 - (  )[Diffusion Models Are Real-Time Game Engines](./assets/papers/ai/diffusion_models_are_real_time_game_engines.pdf)
+- (  )[Textbooks Are All You Need](./assets/papers/ai/textbooks-are-all-you-need.pdf)
 
 ### 🛠 **Data Engineering**
 - (  )[BigLake: BigQuery’s Evolution toward a Multi-Cloud Lakehouse](./assets/papers/data_engineering/biglake_bigquery_s_evolution_toward_a_multi_cloud_lakehouse.pdf)
