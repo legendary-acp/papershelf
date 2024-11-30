@@ -55,6 +55,7 @@ Explore categorized collections of papers and articles:
 ### 🚀 **Engineering Marvels**
 - ( )[The Google File System](./assets/papers/marvels/the_google_file_system.pdf)
 - ( )[Zanzibar: Google’s Consistent, Global Authorization System](./assets/papers/marvels/zanzibar_google's_consistent,_global_authorization_system.pdf)
+- ( )[MapReduce: Simplified Data Processing on Large Clusters](./assets/papers/marvels/mapreduce_simplified_data_processing_on_large_clusters.pdf)
 
 ### 📦 **Miscellaneous**
 - (✓)[Advantages and Disadvantages of a Monolithic Repository](./assets/papers/misc/advantage_and_disadvantages_of_a_monolithic_repository.pdf)
