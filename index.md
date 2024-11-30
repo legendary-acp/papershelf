@@ -59,7 +59,6 @@ Explore categorized collections of papers and articles:
 
 ### 📦 **Miscellaneous**
 - (✓)[Advantages and Disadvantages of a Monolithic Repository](./assets/papers/misc/advantage_and_disadvantages_of_a_monolithic_repository.pdf)
-
 - ( )[Bloom Filters: Design Innovations and Novel Applications](./assets/papers/misc/bloom_filters_design_innovations_and_novel_applications.pdf)
 
 
