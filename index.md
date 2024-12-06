@@ -92,23 +92,26 @@ Research on blockchain technology, cryptocurrencies, and distributed systems.
 | 📋 | [Presto: A Decade of SQL Analytics at Meta](./assets/papers/data_engineering/presto_a_decade_of_sql_analytics_at_meta.pdf)| | 2024-07-04 |
 | 📋 | [Computation Reuse via Fusion in Amazon Athena](./assets/papers/data_engineering/computation_reuse_via_fusion_in_amazon_athena.pdf)|  | 2024-11-18 |
 
-### <a name="engineering-systems"></a> 🚀 Engineering Systems
+### 🚀 Engineering Systems
+
 | Status | Paper | Notes | Date Added |
-|--------|-------|-------|------------|
+|:-------|:------|:------|:-----------|
 | 📖 | [MapReduce: Simplified Data Processing on Large Clusters](./assets/papers/marvels/mapreduce_simplified_data_processing_on_large_clusters.pdf) | [✍️]() | 2024-09-30 |
 | 📋 | [The Google File System](./assets/papers/marvels/the_google_file_system.pdf) | | 2024-09-30 |
-| 📋 | [Zanzibar: Google’s Consistent, Global Authorization System](./assets/papers/marvels/zanzibar_google's_consistent,_global_authorization_system.pdf) |  | 2024-09-30 |
+| 📋 | [Zanzibar: Google's Consistent, Global Authorization System](./assets/papers/marvels/zanzibar_google's_consistent,_global_authorization_system.pdf) | | 2024-09-30 |
 
-### <a name="web3-cryptography"></a> 🌐 Blockchain / Cryptography
+### 🌐 Blockchain / Cryptography
+
 | Status | Paper | Notes | Date Added |
-|--------|-------|-------|------------|
+|:-------|:------|:------|:-----------|
 | 📖 | [Bitcoin](./assets/papers/web3/bitcoin.pdf) | | 2024-07-04 |
-| 📋 | [Ethereum](./assets/goodreads/ethereum.pdf)| | 2024-09-22 |
+| 📋 | [Ethereum](./assets/goodreads/ethereum.pdf) | | 2024-09-22 |
 
-### 📦 **Miscellaneous**
+### 📦 Miscellaneous
+
 | Status | Paper | Notes | Date Added |
-|--------|-------|-------|------------|
-| ✅ | [Advantages and Disadvantages of a Monolithic Repository](./assets/papers/misc/advantage_and_disadvantages_of_a_monolithic_repository.pdf) |[✍️](./_posts/2024-09-08-advantages-disadvantages-monolithic-repo.md) | 2024-09-22 |
+|:-------|:------|:------|:-----------|
+| ✅ | [Advantages and Disadvantages of a Monolithic Repository](./assets/papers/misc/advantage_and_disadvantages_of_a_monolithic_repository.pdf) | [✍️](./_posts/2024-09-08-advantages-disadvantages-monolithic-repo.md) | 2024-09-22 |
 | 📋 | [Bloom Filters: Design Innovations and Novel Applications](./assets/papers/misc/bloom_filters_design_innovations_and_novel_applications.pdf)| | 2024-07-04 |
 
 
