@@ -9,63 +9,118 @@ Welcome to my collection of fascinating research papers and articles! Here, you'
 
 ---
 
-## 🧠 **Recent Reads & Articles**
+## 📊 Quick Stats
 
-### 📝 **Unpacking the Transformer: The AI Breakthrough That Changed Everything**
-   - [Read Paper](./assets/papers/ai/attention_is_all_you_need.pdf)
+- **Total Papers**: 15
+- **Papers Read**: 4
+- **Last Updated**: December 6, 2024
+
+---
+
+## 🔍 **Browse by Category**
+
+### Artificial Intelligence / Machine Learning
+
+[![Status](https://img.shields.io/badge/Papers-4-blue)]()
+
+Core papers exploring breakthroughs in AI/ML, from foundational architectures to cutting-edge applications.
+
+### Data Engineering
+
+[![Status](https://img.shields.io/badge/Papers-5-blue)]()
+
+Papers focusing on distributed systems, databases, and modern data infrastructure.
+
+[Browse Data Engineering Papers →](#data-engineering-1)
+
+### Engineering Systems
+
+[![Status](https://img.shields.io/badge/Papers-3-blue)]()
+
+Landmark papers about large-scale systems and architectural innovations.
+
+[Browse Engineering Systems →](#engineering-systems-1)
+
+### Web3 & Cryptography
+
+[![Status](https://img.shields.io/badge/Papers-2-blue)]()
+
+Research on blockchain technology, cryptocurrencies, and distributed systems.
+
+[Browse Web3 Papers →](#web3--cryptography-1)
+
+---
+
+## 📖 **Recent Reads**
+
+### 📝 Unpacking the Transformer: The AI Breakthrough That Changed Everything
+   *Read on November 15, 2024*
+   - **Category**: AI/ML
    - [Read Article](./_posts/2024-11-15-introduction-to-transformers.md)
 
    _The Transformer model, introduced in the paper "Attention is All You Need," revolutionized AI by replacing traditional recurrence with self-attention, allowing faster, parallel processing of data. This innovation has powered breakthroughs in natural language processing, setting new benchmarks in tasks like translation, and transforming how AI systems operate today._
 
-### 📝 **Advantages and Disadvantages of a Monolithic Repository**
-   - [Read Paper](./assets/papers/misc/advantage_and_disadvantages_of_a_monolithic_repository.pdf)
+### 📝 Advantages and Disadvantages of a Monolithic Repository
+   *Read on September 8, 2024*
    - [Read Article](./_posts/2024-09-08-advantages-disadvantages-monolithic-repo.md)
 
    _An insightful discussion on the pros and cons of using a monolithic repository architecture. It weighs benefits like simpler dependency management against challenges such as scaling and collaboration._
 
-### 📄 **A Comprehensive Survey on Vector Database: Storage and Retrieval Technique, Challenge**
-   - [Read Paper](./assets/papers/data_engineering/a_comprehensive_survey_on_vector_database_storage_and_retrieval_technique_challenge.pdf)
-   - [Read Article](./_posts/2024-07-04-comprehensive-survey-on-vector-database.md)
-
-   _This paper dives into the challenges and techniques involved in vector database storage and retrieval. It offers a detailed survey of current approaches and outlines both the limitations and innovations in this emerging field._
-
-
 ---
 
-## 📑 **All Collections**
-Explore categorized collections of papers and articles:
+## 📚 Detailed Collections
 
-### 🔬 **Artificial Intelligence / Machine Learning**
-- (✓)[Attention Is All You Need](./assets/papers/ai/attention_is_all_you_need.pdf)
-- (→)[Misspecification in Inverse Reinforcement Learning](./assets/papers/ai/misspecification_in_inverse_reinforcement_learning.pdf)
-- ( )[Diffusion Models Are Real-Time Game Engines](./assets/papers/ai/diffusion_models_are_real_time_game_engines.pdf)
-- ( )[Textbooks Are All You Need](./assets/papers/ai/textbooks_are_all_you_need.pdf)
+### 🔬 Artificial Intelligence & Machine Learning
 
-### 🛠 **Data Engineering**
-- (✓)[A Comprehensive Survey on Vector Database: Storage and Retrieval Technique, Challenge](./assets/papers/data_engineering/a_comprehensive_survey_on_vector_database_storage_and_retrieval_technique_challenge.pdf)
-- ( )[BigLake: BigQuery’s Evolution toward a Multi-Cloud Lakehouse](./assets/papers/data_engineering/biglake_bigquery_s_evolution_toward_a_multi_cloud_lakehouse.pdf)
-- ( )[Hive: A Warehousing Solution Over a Map-Reduce Framework](./assets/papers/data_engineering/hive_a_warehousing_solution_over_a_map_reduce_framework.pdf)
-- ( )[Presto: A Decade of SQL Analytics at Meta](./assets/papers/data_engineering/presto_a_decade_of_sql_analytics_at_meta.pdf)
-- ( )[Computation Reuse via Fusion in Amazon Athena](./assets/papers/data_engineering/computation_reuse_via_fusion_in_amazon_athena.pdf)
+| Status | Paper | Notes | Date Added |
+|--------|-------|-------|------------|
+| ✅ | [Attention Is All You Need](./assets/papers/ai/attention_is_all_you_need.pdf) | [✍️](./_posts/2024-11-15-introduction-to-transformers.md) | 2024-11-15 |
+| 📖 | [Misspecification in Inverse Reinforcement Learning](./assets/papers/ai/misspecification_in_inverse_reinforcement_learning.pdf) | - | 2024-10-01 |
+| 📋 | [Diffusion Models Are Real-Time Game Engines](./assets/papers/ai/diffusion_models_are_real_time_game_engines.pdf) | - | 2024-09-15 |
+| 📋 | [Textbooks Are All You Need](./assets/papers/ai/textbooks_are_all_you_need.pdf) | - | 2024-08-20 |
 
-### 🌐 **Blockchain / Cryptography**
-- (→)[Bitcoin](./assets/papers/web3/bitcoin.pdf)
-- ( )[Ethereum](./assets/goodreads/ethereum.pdf)
 
-### 🚀 **Engineering Marvels**
-- ( )[The Google File System](./assets/papers/marvels/the_google_file_system.pdf)
-- ( )[Zanzibar: Google’s Consistent, Global Authorization System](./assets/papers/marvels/zanzibar_google's_consistent,_global_authorization_system.pdf)
-- ( )[MapReduce: Simplified Data Processing on Large Clusters](./assets/papers/marvels/mapreduce_simplified_data_processing_on_large_clusters.pdf)
+### 🛠 Data Engineering
+
+| Status | Paper | Notes | Date Added |
+|--------|-------|-------|------------|
+| ✅ | [A Comprehensive Survey on Vector Database: Storage and Retrieval Technique, Challenge](./assets/papers/data_engineering/a_comprehensive_survey_on_vector_database_storage_and_retrieval_technique_challenge.pdf) | [✍️](./_posts/2024-07-04-comprehensive-survey-on-vector-database.md) | 2024-07-04 |
+| 📋 | [BigLake: BigQuery’s Evolution toward a Multi-Cloud Lakehouse](./assets/papers/data_engineering/biglake_bigquery_s_evolution_toward_a_multi_cloud_lakehouse.pdf) |  |  |
+| 📋 | [Hive: A Warehousing Solution Over a Map-Reduce Framework](./assets/papers/data_engineering/hive_a_warehousing_solution_over_a_map_reduce_framework.pdf) |  |  |
+| 📋 | [Presto: A Decade of SQL Analytics at Meta](./assets/papers/data_engineering/presto_a_decade_of_sql_analytics_at_meta.pdf)| |  |
+| 📋 | [Computation Reuse via Fusion in Amazon Athena](./assets/papers/data_engineering/computation_reuse_via_fusion_in_amazon_athena.pdf)|  |  |
+
+### 🌐 Blockchain / Cryptography
+| Status | Paper | Notes | Date Added |
+|--------|-------|-------|------------|
+| 📖 | [Bitcoin](./assets/papers/web3/bitcoin.pdf) | |  |
+| 📋 | [Ethereum](./assets/goodreads/ethereum.pdf)| |  |
+
+### 🚀 Engineering Systems
+| Status | Paper | Notes | Date Added |
+|--------|-------|-------|------------|
+| 📖 | [MapReduce: Simplified Data Processing on Large Clusters](./assets/papers/marvels/mapreduce_simplified_data_processing_on_large_clusters.pdf) | [✍️]() |  |
+| 📋 | [The Google File System](./assets/papers/marvels/the_google_file_system.pdf) | |  |
+| 📋 | [Zanzibar: Google’s Consistent, Global Authorization System](./assets/papers/marvels/zanzibar_google's_consistent,_global_authorization_system.pdf) |  |  |
 
 ### 📦 **Miscellaneous**
-- (✓)[Advantages and Disadvantages of a Monolithic Repository](./assets/papers/misc/advantage_and_disadvantages_of_a_monolithic_repository.pdf)
-- ( )[Bloom Filters: Design Innovations and Novel Applications](./assets/papers/misc/bloom_filters_design_innovations_and_novel_applications.pdf)
+| Status | Paper | Notes | Date Added |
+|--------|-------|-------|------------|
+| ✅ | [Advantages and Disadvantages of a Monolithic Repository](./assets/papers/misc/advantage_and_disadvantages_of_a_monolithic_repository.pdf) |[✍️](./_posts/2024-09-08-advantages-disadvantages-monolithic-repo.md) |  |
+| 📋 | [Bloom Filters: Design Innovations and Novel Applications](./assets/papers/misc/bloom_filters_design_innovations_and_novel_applications.pdf)| |  |
 
 
 ---
 
-## 📥 **Download PDFs**
-All the papers and articles I've read are hosted here, and you can directly download them:
-
+## 📥 **Resources**
 - [All Papers](https://github.com/legendary-acp/papershelf/tree/main/assets/papers)
 - [Good Reads](https://github.com/legendary-acp/papershelf/tree/main/assets/goodreads)
+
+---
+
+**Legend**:
+- ✅ Read & Notes Available
+- 📖 Currently Reading
+- 📋 In Reading List
+
+*Last updated: December 6, 2024*
