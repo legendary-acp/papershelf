@@ -115,17 +115,15 @@ Research on blockchain technology, cryptocurrencies, and distributed systems.
 | 📋 | [Bloom Filters: Design Innovations and Novel Applications](./assets/papers/misc/bloom_filters_design_innovations_and_novel_applications.pdf)| | 2024-07-04 |
 
 
----
-
-## 📥 **Resources**
-- [All Papers](https://github.com/legendary-acp/papershelf/tree/main/assets/papers)
-- [Good Reads](https://github.com/legendary-acp/papershelf/tree/main/assets/goodreads)
-
----
-
 **Legend**:
 - ✅ Read & Notes Available
 - 📖 Currently Reading
 - 📋 In Reading List
 
-*Last updated: December 6, 2024*
+--- 
+
+## 📥 **Resources**
+- [All Papers](https://github.com/legendary-acp/papershelf/tree/main/assets/papers)
+- [Good Reads](https://github.com/legendary-acp/papershelf/tree/main/assets/goodreads)
+
+*Last updated: December 9, 2024*

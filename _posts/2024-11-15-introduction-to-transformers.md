@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Unpacking the Transformer: The AI Breakthrough That Changed Everything"
-date: 2024-09-08
-tags: [productivity, misc]
+date: 2024-11-15
+tags: [ai, gen-ai]
 ---
 
 Alright, so I've had this paper, "***Attention is All You Need***" sitting in my reading list for a solid six months now. Finally decided to check it out today. It's not super hard to understand, but I did have to ask ChatGPT for a little help. Funny enough, ChatGPT is actually built on the transformer architecture the paper talks about. Pretty cool, right?
