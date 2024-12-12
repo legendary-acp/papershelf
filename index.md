@@ -57,7 +57,7 @@ Research on blockchain technology, cryptocurrencies, and distributed systems.
 
 ### 📝 Inside MapReduce: The Engine That Powers Large-Scale Data Processing
    *Read on December 13, 2024*
-   - [Read Article]({% post_url 2024-12-13-mapreduce-simplified-data-processing-on-large-clusters %})
+   - [Read Article](/papershelf/2024/12/13/mapreduce-simplified-data-processing-on-large-clusters)
 
    _Ever wondered how Google processes petabytes of data efficiently? MapReduce is the elegant solution that revolutionized big data processing by turning complex distributed computations into simple Map and Reduce operations. This article breaks down how it works, and why it's still relevant today._
 
@@ -67,8 +67,6 @@ Research on blockchain technology, cryptocurrencies, and distributed systems.
    - [Read Article](./_posts/2024-11-15-introduction-to-transformers.md)
 
    _The Transformer model, introduced in the paper "Attention is All You Need," revolutionized AI by replacing traditional recurrence with self-attention, allowing faster, parallel processing of data. This innovation has powered breakthroughs in natural language processing, setting new benchmarks in tasks like translation, and transforming how AI systems operate today._
-
-
 
 ---
 
