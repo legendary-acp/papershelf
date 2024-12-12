@@ -5,8 +5,6 @@ date: 2024-12-13
 tags: [engineering-systems, big-data]
 ---
 
-# MapReduce: A Distributed Computing Framework
-
 MapReduce consists of two main components: Map, which converts input data into (key,value) pairs using user-defined functions, and a Reduce function. While this might sound like a simple program, it handles many complex tasks associated with distributed computing, hiding them from the end user and letting them focus on core logic. The system can handle petabytes of data while abstracting details like parallelization, fault-tolerance, data distribution, and load balancing.
 
 ## System Overview
