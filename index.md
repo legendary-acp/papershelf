@@ -96,7 +96,7 @@ Research on blockchain technology, cryptocurrencies, and distributed systems.
 
 | Status | Paper | Notes | Date Added |
 |:-------|:------|:------|:-----------|
-| ✅ | [MapReduce: Simplified Data Processing on Large Clusters](./assets/papers/marvels/mapreduce_simplified_data_processing_on_large_clusters.pdf) | [✍️](./_posts/2024-12-13-inside-mapreduce-the-engine-that-powers-large-scale-data-processing.md) | 2024-09-30 |
+| ✅ | [MapReduce: Simplified Data Processing on Large Clusters](./assets/papers/marvels/mapreduce_simplified_data_processing_on_large_clusters.pdf) | [✍️](./_posts/2024-12-13-inside-mapreduce.md) | 2024-09-30 |
 | 📋 | [The Google File System](./assets/papers/marvels/the_google_file_system.pdf) | | 2024-09-30 |
 | 📋 | [Zanzibar: Google's Consistent, Global Authorization System](./assets/papers/marvels/zanzibar_google's_consistent,_global_authorization_system.pdf) | | 2024-09-30 |
 

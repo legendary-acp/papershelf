@@ -5,11 +5,11 @@ plugins:
   - jekyll-sitemap
 author: Pradyuman
 github_username: legendary-acp
-permalink: /:year/:month/:day/:title/
+permalink: /:year/:month/:day/:title
 
 # Site settings
-title: Pradyuman's Blog
-description: Exploring technology, one post at a time
+title: Pradyuman's Papershelf
+description: 📚 Curated Collection of Fascinating Research Papers and Articles 
 url: "https://legendary-acp.github.io"
 baseurl: "/papershelf"  # This is crucial for your GitHub Pages project site
 
