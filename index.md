@@ -55,18 +55,20 @@ Research on blockchain technology, cryptocurrencies, and distributed systems.
 
 ## 📖 **Recent Reads**
 
+### 📝 Hive: SQL-like Data Warehousing on Hadoop
+   *Read on November 15, 2024*
+   - **Category**: Data Engineering
+   - [Read Article](./_posts/2024-12-22-inside-hive.md)
+
+   _Hey tech enthusiasts! Ever wondered how big companies crunch through terabytes of data using just SQL? Today we're diving deep into Hive - the tech that makes that possible. It's SQL, but with superpowers for handling massive datasets across hundreds of machines. Let's break it down!_
+
 ### 📝 Inside MapReduce: The Engine That Powers Large-Scale Data Processing
    *Read on December 13, 2024*
    - [Read Article](./_posts/2024-12-13-inside-mapreduce.md)
 
    _Ever wondered how Google processes petabytes of data efficiently? MapReduce is the elegant solution that revolutionized big data processing by turning complex distributed computations into simple Map and Reduce operations. This article breaks down how it works, and why it's still relevant today._
 
-### 📝 Unpacking the Transformer: The AI Breakthrough That Changed Everything
-   *Read on November 15, 2024*
-   - **Category**: AI/ML
-   - [Read Article](./_posts/2024-11-15-introduction-to-transformers.md)
 
-   _The Transformer model, introduced in the paper "Attention is All You Need," revolutionized AI by replacing traditional recurrence with self-attention, allowing faster, parallel processing of data. This innovation has powered breakthroughs in natural language processing, setting new benchmarks in tasks like translation, and transforming how AI systems operate today._
 
 ---
 
@@ -80,6 +82,7 @@ Research on blockchain technology, cryptocurrencies, and distributed systems.
 | 📖 | [Misspecification in Inverse Reinforcement Learning](./assets/papers/ai/misspecification_in_inverse_reinforcement_learning.pdf) |  | 2024-11-28 |
 | 📋 | [Diffusion Models Are Real-Time Game Engines](./assets/papers/ai/diffusion_models_are_real_time_game_engines.pdf) |  | 2024-09-14 |
 | 📋 | [Textbooks Are All You Need](./assets/papers/ai/textbooks_are_all_you_need.pdf) |  | 2024-11-27 |
+| 📋 | [Large Concept Models](./assets/papers/ai/large_concept_models.pdf) |  | 2024-12-22 |
 
 
 ### <a name="data-engineering"></a> 🛠 Data Engineering
@@ -87,8 +90,8 @@ Research on blockchain technology, cryptocurrencies, and distributed systems.
 | Status | Paper | Notes | Date Added |
 |--------|-------|-------|------------|
 | ✅ | [A Comprehensive Survey on Vector Database: Storage and Retrieval Technique, Challenge](./assets/papers/data_engineering/a_comprehensive_survey_on_vector_database_storage_and_retrieval_technique_challenge.pdf) | [✍️](./_posts/2024-07-04-comprehensive-survey-on-vector-database.md) | 2024-07-04 |
+| ✅ | [Hive: A Warehousing Solution Over a Map-Reduce Framework](./assets/papers/data_engineering/hive_a_warehousing_solution_over_a_map_reduce_framework.pdf) | [✍️](./_posts/2024-12-13-inside-hive.md) | 2024-09-22 |
 | 📋 | [BigLake: BigQuery’s Evolution toward a Multi-Cloud Lakehouse](./assets/papers/data_engineering/biglake_bigquery_s_evolution_toward_a_multi_cloud_lakehouse.pdf) |  | 2024-09-22 |
-| 📋 | [Hive: A Warehousing Solution Over a Map-Reduce Framework](./assets/papers/data_engineering/hive_a_warehousing_solution_over_a_map_reduce_framework.pdf) |  | 2024-09-22 |
 | 📋 | [Presto: A Decade of SQL Analytics at Meta](./assets/papers/data_engineering/presto_a_decade_of_sql_analytics_at_meta.pdf)| | 2024-07-04 |
 | 📋 | [Computation Reuse via Fusion in Amazon Athena](./assets/papers/data_engineering/computation_reuse_via_fusion_in_amazon_athena.pdf)|  | 2024-11-18 |
 
