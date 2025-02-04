@@ -11,12 +11,8 @@ Welcome to my collection of fascinating research papers and articles! Here, you'
 
 ## 📊 Quick Stats
 
-- **Total Papers**: 15
-- **Papers Read**: 4
-
-- **Total Reports**: 2
-- **Reports Read**: 0
-
+- **Papers**: 15 (4 read)
+- **Reports**: 2 (0 read)
 - **Last Updated**: February 4, 2025
 
 ---
