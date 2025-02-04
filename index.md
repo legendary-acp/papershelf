@@ -13,7 +13,11 @@ Welcome to my collection of fascinating research papers and articles! Here, you'
 
 - **Total Papers**: 15
 - **Papers Read**: 4
-- **Last Updated**: December 6, 2024
+
+- **Total Reports**: 2
+- **Reports Read**: 0
+
+- **Last Updated**: February 4, 2025
 
 ---
 
@@ -68,7 +72,14 @@ Research on blockchain technology, cryptocurrencies, and distributed systems.
 
    _Ever wondered how Google processes petabytes of data efficiently? MapReduce is the elegant solution that revolutionized big data processing by turning complex distributed computations into simple Map and Reduce operations. This article breaks down how it works, and why it's still relevant today._
 
+---
 
+## 🗂️ Report Reading Tracker
+
+| Status | Report | Notes | Date Read |
+|--------|-------|-------|------------|
+| 📋 | [Gartner Marketing Predictions](./assets/reports/marketing-predictions-ebook-2025.pdf) | | |
+| 📋 | [2024 Data Breach Investigations Report](./assets/reports/2024-dbir-data-breach-investigations-report.pdf) | | |
 
 ---
 
@@ -129,4 +140,4 @@ Research on blockchain technology, cryptocurrencies, and distributed systems.
 - [All Papers](https://github.com/legendary-acp/papershelf/tree/main/assets/papers)
 - [Good Reads](https://github.com/legendary-acp/papershelf/tree/main/assets/goodreads)
 
-*Last updated: December 9, 2024*
+*Last updated: February 4, 2025*
