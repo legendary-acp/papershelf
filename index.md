@@ -74,7 +74,7 @@ Research on blockchain technology, cryptocurrencies, and distributed systems.
 
 | Status | Report | Notes | Date Read |
 |--------|-------|-------|------------|
-| 📋 | [Gartner Marketing Predictions](./assets/reports/marketing-predictions-2025.pdf) | | |
+| 📋 | [Gartner Marketing Predictions](./assets/reports/marketing-predictions-2025.pdf) |[✍️](./_posts/2025-02-05-emerging-marketing-trends.md) | 2025-02-05 |
 | 📋 | [2024 Data Breach Investigations Report](./assets/reports/2024-dbir-data-breach-investigations-report.pdf) | | |
 
 ---
