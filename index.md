@@ -12,8 +12,8 @@ Welcome to my collection of fascinating research papers and articles! Here, you'
 ## 📊 Quick Stats
 
 - **Papers**: 15 (4 read)
-- **Reports**: 2 (0 read)
-- **Last Updated**: February 4, 2025
+- **Reports**: 4 (2 read)
+- **Last Updated**: February 13, 2025
 
 ---
 
@@ -74,8 +74,10 @@ Research on blockchain technology, cryptocurrencies, and distributed systems.
 
 | Status | Report | Notes | Date Read |
 |--------|-------|-------|------------|
-| 📋 | [Gartner Marketing Predictions](./assets/reports/marketing-predictions-2025.pdf) |[✍️](./_posts/2025-02-05-emerging-marketing-trends.md) | 2025-02-05 |
+| ✅  | [Gartner Marketing Predictions](./assets/reports/marketing-predictions-2025.pdf) |[✍️](./_posts/2025-02-05-emerging-marketing-trends.md) | 2025-02-05 |
+| ✅  | [Scalable Business Operations for Tech CEOs Primer for 2024](./assets/reports/scalable-business-operations-tech-ceos-primer.pdf) |[✍️](./_posts/2025-02-05-emerging-marketing-trends.md) | 2025-02-13 |
 | 📋 | [2024 Data Breach Investigations Report](./assets/reports/2024-dbir-data-breach-investigations-report.pdf) | | |
+| 📋 | [2025 Strategic Roadmap for Cybersecurity Leadership](./assets/reports/strategic-roadmap-for-cybersecurity.pdf) | | |
 
 ---
 
@@ -136,4 +138,4 @@ Research on blockchain technology, cryptocurrencies, and distributed systems.
 - [All Papers](https://github.com/legendary-acp/papershelf/tree/main/assets/papers)
 - [Good Reads](https://github.com/legendary-acp/papershelf/tree/main/assets/goodreads)
 
-*Last updated: February 4, 2025*
+*Last updated: February 13, 2025*
