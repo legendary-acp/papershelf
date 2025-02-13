@@ -75,7 +75,7 @@ Research on blockchain technology, cryptocurrencies, and distributed systems.
 | Status | Report | Notes | Date Read |
 |--------|-------|-------|------------|
 | ✅  | [Gartner Marketing Predictions](./assets/reports/marketing-predictions-2025.pdf) |[✍️](./_posts/2025-02-05-emerging-marketing-trends.md) | 2025-02-05 |
-| ✅  | [Scalable Business Operations for Tech CEOs Primer for 2024](./assets/reports/scalable-business-operations-tech-ceos-primer.pdf) |[✍️](./_posts/2025-02-05-emerging-marketing-trends.md) | 2025-02-13 |
+| ✅  | [Scalable Business Operations for Tech CEOs Primer for 2024](./assets/reports/scalable-business-operations-tech-ceos-primer.pdf) |[✍️](./_posts/2025-02-13-critical-focus-areas-for-early-stage-startup-ceos.md) | 2025-02-13 |
 | 📋 | [2024 Data Breach Investigations Report](./assets/reports/2024-dbir-data-breach-investigations-report.pdf) | | |
 | 📋 | [2025 Strategic Roadmap for Cybersecurity Leadership](./assets/reports/strategic-roadmap-for-cybersecurity.pdf) | | |
 
