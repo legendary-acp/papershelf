@@ -13,7 +13,7 @@ Welcome to my collection of fascinating research papers and articles! Here, you'
 
 - **Papers**: 15 (4 read)
 - **Reports**: 4 (2 read)
-- **Last Updated**: February 13, 2025
+- **Last Updated**: February 21, 2025
 
 ---
 
@@ -21,7 +21,7 @@ Welcome to my collection of fascinating research papers and articles! Here, you'
 
 ### Artificial Intelligence / Machine Learning
 
-[![Status](https://img.shields.io/badge/Papers-4-blue)]()
+[![Status](https://img.shields.io/badge/Papers-5-blue)]()
 
 Core papers exploring breakthroughs in AI/ML, from foundational architectures to cutting-edge applications.
 
@@ -50,6 +50,15 @@ Landmark papers about large-scale systems and architectural innovations.
 Research on blockchain technology, cryptocurrencies, and distributed systems.
 
 [Browse Web3 Papers →](#web3-cryptography)
+
+### Cyber Security
+
+[![Status](https://img.shields.io/badge/Papers-3-blue)]()
+
+Research papers focusing on network security, information assurance, threat analysis, and more.
+
+[Browse Cyber Security Papers →](#cyber-security)
+
 
 ---
 
@@ -119,6 +128,15 @@ Research on blockchain technology, cryptocurrencies, and distributed systems.
 | 📖 | [Bitcoin](./assets/papers/web3/bitcoin.pdf) | | 2024-07-04 |
 | 📋 | [Ethereum](./assets/goodreads/ethereum.pdf) | | 2024-09-22 |
 
+### <a name="cyber-security"></a> 🔒 Cyber Security
+
+| Status | Paper | Notes | Date Added   |
+|--------|-------|-------|--------------|
+| 📋 | [a_method_for_obtaining_digital_signatures_and_public_key_cryptosystems.pdf](./assets/papers/security/a_method_for_obtaining_digital_signatures_and_public_key_cryptosystems.pdf) | | 2025-02-21 |
+| 📋 | [reflection_on_trusting_trust.pdf](./assets/papers/security/reflection_on_trusting_trust.pdf) | | 2025-02-21 |
+| 📋 | [new_directions_in_cryptography.pdf](./assets/papers/security/new_directions_in_cryptography.pdf) | | 2025-02-21 |
+
+
 ### 📦 Miscellaneous
 
 | Status | Paper | Notes | Date Added |
@@ -138,4 +156,4 @@ Research on blockchain technology, cryptocurrencies, and distributed systems.
 - [All Papers](https://github.com/legendary-acp/papershelf/tree/main/assets/papers)
 - [Good Reads](https://github.com/legendary-acp/papershelf/tree/main/assets/goodreads)
 
-*Last updated: February 13, 2025*
+*Last updated: February 21, 2025*
