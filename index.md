@@ -13,7 +13,7 @@ Welcome to my collection of fascinating research papers and articles! Here, you'
 
 - **Papers**: 15 (4 read)
 - **Reports**: 4 (2 read)
-- **Last Updated**: February 21, 2025
+- **Last Updated**: June 26, 2025
 
 ---
 
@@ -132,9 +132,8 @@ Research papers focusing on network security, information assurance, threat anal
 
 | Status | Paper | Notes | Date Added   |
 |--------|-------|-------|--------------|
-| 📋 | [a_method_for_obtaining_digital_signatures_and_public_key_cryptosystems.pdf](./assets/papers/security/a_method_for_obtaining_digital_signatures_and_public_key_cryptosystems.pdf) | | 2025-02-21 |
-| 📋 | [reflection_on_trusting_trust.pdf](./assets/papers/security/reflection_on_trusting_trust.pdf) | | 2025-02-21 |
-| 📋 | [new_directions_in_cryptography.pdf](./assets/papers/security/new_directions_in_cryptography.pdf) | | 2025-02-21 |
+| 📋 | [A Method for Obtaining Digital Signatures and Public-Key Cryptosystems](./assets/papers/security/a_method_for_obtaining_digital_signatures_and_public_key_cryptosystems.pdf) | | 2025-02-21 |
+| 📋 | [New Directions in Cryptography](./assets/papers/security/new_directions_in_cryptography.pdf) | | 2025-02-21 |
 
 
 ### 📦 Miscellaneous
@@ -156,4 +155,4 @@ Research papers focusing on network security, information assurance, threat anal
 - [All Papers](https://github.com/legendary-acp/papershelf/tree/main/assets/papers)
 - [Good Reads](https://github.com/legendary-acp/papershelf/tree/main/assets/goodreads)
 
-*Last updated: February 21, 2025*
+*Last updated: June 26, 2025*
